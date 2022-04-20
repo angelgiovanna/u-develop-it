@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/angelgiovanna/u-develop-it#readme",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3"
   },
   "devDependencies": {
     "jest": "^27.5.1"
